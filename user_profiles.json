@@ -1,0 +1,22 @@
+{
+    "akbar": {
+        "password": "123456",
+        "age": "12"
+    },
+    "kainat": {
+        "password": "123456",
+        "age": "12"
+    },
+    "Sonia": {
+        "password": "123456",
+        "age": "11"
+    },
+    "sonia": {
+        "password": "123456",
+        "age": "11"
+    },
+    "Akbar": {
+        "password": "123456",
+        "age": "12"
+    }
+}
